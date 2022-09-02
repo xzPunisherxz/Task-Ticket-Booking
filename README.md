@@ -18,6 +18,6 @@
 
 
 
-npm install
+Для установки "npm install"
 
-npm run start
+Для запуска приложения "npm run start"
