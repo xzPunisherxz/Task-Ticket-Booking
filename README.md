@@ -15,3 +15,9 @@
 бронирования: одна неделя от текущей даты.
 Кроссбраузерная верстка(мин. IE 10).
 Реализовать на JavaScript/JQuery/HTML5/CSS3
+
+
+
+npm install
+
+npm run start
